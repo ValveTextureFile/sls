@@ -1,21 +1,21 @@
-MIT License
+This license agreement (the "Agreement") is a legal agreement between you (the "Licensee") and the creator of the Simple Logging System (SLS), hereafter referred to as the "Licensor." By installing, downloading, or otherwise using the SLS software, you agree to be bound by the terms and conditions of this Agreement.
 
-Copyright (c) 2023 VTF
+    1. LICENSE GRANT
+		The Licensor grants the Licensee a non-exclusive, non-transferable, limited license to use the SLS software (the "Software") for personal or commercial purposes.
+	
+    2. RESTRICTIONS
+		The Licensee may not sell, distribute, sublicense, rent, or lease the Software or any part of it. The Licensee may not modify, reverse engineer, decompile, or disassemble the Software, except to the extent that such activity is expressly permitted by applicable law.
+	
+    3. DISCLAIMER OF WARRANTY
+		The Software is provided "AS IS," without warranty of any kind, including without limitation the warranties of merchantability, fitness for a particular purpose, and non-infringement. The Licensor does not warrant that the Software will be error-free or that it will meet the Licensee's requirements. The Licensee assumes all risk of using the Software, including but not limited to the risk of important file deletion.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+    4. LIMITATION OF LIABILITY
+		In no event shall the Licensor be liable for any damages, including without limitation any direct, indirect, special, incidental, or consequential damages arising out of or in connection with the use or inability to use the Software or for any other claim by the Licensee or any other party, even if the Licensor has been advised of the possibility of such damages.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+    5. TERMINATION
+		The Licensee may terminate this Agreement at any time by ceasing to use the Software. The Licensor may terminate this Agreement if the Licensee breaches any of its terms and conditions. Upon termination, the Licensee must immediately cease all use of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+    6. GENERAL PROVISIONS
+		This Agreement shall be governed by the laws of the state in which the Licensor resides, without regard to its conflict of laws principles. This Agreement constitutes the entire agreement between the Licensor and the Licensee with respect to the Software and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between the Licensor and the Licensee. Any modifications to this Agreement must be in writing and signed by both parties.
+
+By using the Software, the Licensee agrees to be bound by the terms and conditions of this Agreement. If the Licensee does not agree to the terms and conditions of this Agreement, they must not use the Software.
