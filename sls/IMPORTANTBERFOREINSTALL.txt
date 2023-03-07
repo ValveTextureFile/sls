@@ -1,0 +1,6 @@
+what you should do
+
+put the shortcut on desktop
+put sls folder in program files
+edit shortcut properties to match to sls.py
+READ LISCENE!!!
